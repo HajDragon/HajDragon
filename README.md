@@ -3,7 +3,6 @@
 ## 💻 Full Stack Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=hajdragon&color=blueviolet)
-Donations<3:[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arshia8890)/n
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) 
 
 I'm passionate about building robust applications and exploring new technologies. My expertise spans across backend and frontend development with a focus on creating efficient, scalable solutions.
@@ -45,5 +44,9 @@ Here are some of the projects I've been working on:
 - <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="20" height="20" alt="Telegram Icon" style="vertical-align: middle;"> <a href="https://t.me/HajDragon">Telegram</a>
 
 ---
+Donations help me continue creating open-source projects:
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/arshia8890)
+
 
 ⭐️ From [HajDragon](https://github.com/HajDragon)
