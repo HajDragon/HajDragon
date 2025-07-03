@@ -38,7 +38,7 @@ Here are some of the projects I've been working on:
 ## 📫 How to Reach Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arshia-azadian-842a87317/)
-- ✉️ [Email](PS267584@edu.summacollege.nl)
+- ✉️ <a href="PS267584@summacollege.nl">Email Me</a>
 - <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="20" height="20" alt="Telegram Icon" style="vertical-align: middle;"> <a href="https://t.me/HajDragon">Telegram</a>
 
 ---
