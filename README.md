@@ -46,6 +46,8 @@ Here are some of the projects I've been working on:
 - Advanced C++ techniques
 - Laravel best practices
 - Cloud deployment strategies
+- LLMs logic
+- Computer Algorhythm
 
 ## 📫 How to Reach Me
 
