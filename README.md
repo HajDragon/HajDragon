@@ -15,13 +15,14 @@ I'm passionate about building robust applications and exploring new technologies
 🔧 Tools:             Git, Docker, npm, pip, composer
 ```
 
+---
 ## 🚀 My Projects
 
 Here are some of the projects I've been working on:
 
-- **Project Management Systems** - Building efficient workflow solutions
-- **Web Applications** - Developing responsive, user-friendly interfaces
-- **Backend APIs** - Creating robust API endpoints with Laravel
+* **[ATOM-GPT](https://github.com/HajDragon/ATOM-GPT)** - My own custom GPT model, developed for specific tasks and interactions.
+* **[Laravel Instagram Clone](https://github.com/HajDragon/laravel-instagram-clone)** - A social media platform clone built with Laravel, showcasing web application development and backend API creation.
+* **[Python ToDo Web App](https://github.com/HajDragon/Pyhton-ToDo-webapp)** - A responsive ToDo web application developed using Python, focusing on user-friendly interfaces and efficient task management.
 
 ## 📊 GitHub Stats
 
