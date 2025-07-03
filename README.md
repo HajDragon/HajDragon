@@ -39,7 +39,7 @@ Here are some of the projects I've been working on:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/arshia-azadian-842a87317/)
 - ✉️ [Email](PS267584@edu.summacollege.nl)
-- <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="20" height="10" alt="Your Icon">telegram(https://t.me/HajDragon)
+- <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="20" height="20" alt="Your Icon">telegram(https://t.me/HajDragon)
 
 ---
 
