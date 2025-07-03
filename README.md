@@ -9,10 +9,10 @@ I'm passionate about building robust applications and exploring new technologies
 ## 🛠️ Skills & Technologies
 
 ```
-💻 Languages:         C++, PHP, JavaScript, HTML/CSS
-🌐 Frameworks:        Laravel, Vue.js
-🗄️ Databases:         MySQL, PostgreSQL
-🔧 Tools:             Git, Docker, npm
+💻 Languages:         C++, PHP, JavaScript, HTML/CSS, Python
+🌐 Frameworks:        Laravel, React
+🗄️ Databases:         MySQL, SQLite
+🔧 Tools:             Git, Docker, npm, pip, composer
 ```
 
 ## 🚀 My Projects
@@ -37,9 +37,9 @@ Here are some of the projects I've been working on:
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](#)
-- 🐦 [Twitter](#)
-- ✉️ [Email](#)
+- 💼 [LinkedIn](https://www.linkedin.com/in/arshia-azadian-842a87317/)
+- ✉️ [Email](PS267584@edu.summacollege.nl)
+- <img src="https://img.icons8.com/?size=100&id=lUktdBVdL4Kb&format=png&color=000000" width="20" height="20" alt="Your Icon">telegram(https://t.me/HajDragon)
 
 ---
 
