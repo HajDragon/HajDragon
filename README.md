@@ -40,7 +40,7 @@ Here are some of the projects I've been working on:
 
 ![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=HajDragon&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshia&layout=donut-vertical&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arshia&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🌱 Currently Learning
 
