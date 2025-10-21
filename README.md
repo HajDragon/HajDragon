@@ -44,7 +44,7 @@ Here are some of the projects I've been working on:
 
 ## 🌱 Currently Learning
 
-- Advanced C++ techniques
+- C++ Memory Manipulation
 - Laravel Up and Running by Matt Stauffer
 - Cloud deployment strategies
 - LLMs logic
