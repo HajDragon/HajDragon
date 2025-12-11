@@ -38,7 +38,6 @@ Here are some of the projects I've been working on:
 
 ##  GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 ![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=HajDragon&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HajDragon&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
