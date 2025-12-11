@@ -18,7 +18,7 @@
 
 I'm passionate about building robust applications and exploring new technologies. My expertise spans across backend and frontend development with a focus on creating efficient, scalable solutions.
 
-## 🛠️ Skills & Technologies
+## Skills & Technologies
 
 ```
 💻 Languages:         C++, PHP, JavaScript, HTML/CSS, Python
@@ -28,7 +28,7 @@ I'm passionate about building robust applications and exploring new technologies
 ```
 
 ---
-## 🚀 My Projects
+## My Projects
 
 Here are some of the projects I've been working on:
 
@@ -42,7 +42,7 @@ Here are some of the projects I've been working on:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HajDragon&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - C++ Memory Manipulation
 - Laravel Up and Running by Matt Stauffer
