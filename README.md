@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Arshia
+#  Hi there, I'm Arshia
 
-## 💻 Full Stack Developer
+##  Full Stack Developer
 ![Profile Views](https://komarev.com/ghpvc/?username=hajdragon&color=blueviolet)
 
 <br> ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -36,7 +36,7 @@ Here are some of the projects I've been working on:
 * **[Laravel Instagram Clone](https://github.com/HajDragon/laravel-instagram-clone)** - A social media platform clone built with Laravel, showcasing web application development and backend API creation.
 * **[External DX11 Screen Overlay](https://github.com/HajDragon/External_Overlay)** - An overlay for visualizing objects on screen as an overlay using DX11.
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Arshia's GitHub stats](https://github-readme-stats.vercel.app/api?username=HajDragon&show_icons=true&theme=radical)
 
@@ -52,7 +52,7 @@ Here are some of the projects I've been working on:
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/arshia-azadian-842a87317/)
+-  [LinkedIn](https://www.linkedin.com/in/arshia-azadian-842a87317/)
 - <img src="https://img.icons8.com/?size=100&id=16262&format=png&color=000000" width="20" height="20" alt="Email Icon" style="vertical-align: middle;"> <a href="mailto:PS267584@summacollege.nl?subject=Inquiry%20from%20GitHub%20README&body=Hi%20there,%0A%0AI'm contacting you from your GitHub README.">Email Me</a>
 - <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="20" height="20" alt="Telegram Icon" style="vertical-align: middle;"> <a href="https://t.me/HajDragon">Telegram</a>
 
