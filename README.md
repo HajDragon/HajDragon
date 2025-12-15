@@ -35,6 +35,7 @@ Here are some of the projects I've been working on:
 * **[ATOM-GPT](https://github.com/HajDragon/ATOM-GPT)** - My own custom GPT model, developed for specific tasks and interactions.
 * **[Laravel Instagram Clone](https://github.com/HajDragon/laravel-instagram-clone)** - A social media platform clone built with Laravel, showcasing web application development and backend API creation.
 * **[External DX11 Screen Overlay](https://github.com/HajDragon/External_Overlay)** - An overlay for visualizing objects on screen as an overlay using DX11.
+* **[Country Index Site](https://github.com/HajDragon/country-index-site)** - A website for viewing detailed country data in laravel.
 
 ##  GitHub Stats
 
