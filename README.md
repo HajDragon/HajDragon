@@ -54,7 +54,6 @@ Here are some of the projects I've been working on:
 
 -  [LinkedIn](https://www.linkedin.com/in/arshia-azadian-842a87317/)
 - <img src="https://img.icons8.com/?size=100&id=16262&format=png&color=000000" width="20" height="20" alt="Email Icon" style="vertical-align: middle;"> <a href="mailto:PS267584@summacollege.nl?subject=Inquiry%20from%20GitHub%20README&body=Hi%20there,%0A%0AI'm contacting you from your GitHub README.">Email Me</a>
-- <img src="https://img.icons8.com/?size=100&id=63306&format=png&color=000000" width="20" height="20" alt="Telegram Icon" style="vertical-align: middle;"> <a href="https://t.me/HajDragon">Telegram</a>
 
 ---
 Donations help me continue creating open-source projects:
