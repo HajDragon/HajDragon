@@ -1,5 +1,5 @@
 <div align="center">
-# Hi there, I'm Arshia
+Hi there, I'm Arshia
  
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Building+with+Laravel+%26+React;Home+Assistant+tinkerer;Always+learning+something+new)](https://github.com/HajDragon)
  
